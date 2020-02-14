@@ -1,0 +1,4 @@
+/.jacocoverage/
+/target/
+/.sonar/
+/jacoco.exec*
